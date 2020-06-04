@@ -11,7 +11,7 @@ public class SparseArray {
         chessArr1[2][3] = 2;
         chessArr1[2][6] = 1;
         chessArr1[3][5] = 2;
-        chessArr1[9][7] = 1;
+        chessArr1[7][7] = 1;
         //输出原始二维数组
         System.out.print("原始二维数组如下:\n");
         for(int[] row : chessArr1){

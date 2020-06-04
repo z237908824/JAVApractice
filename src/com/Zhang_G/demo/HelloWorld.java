@@ -1,4 +1,4 @@
-package com.Zhang_G.demo;
+package com.zhang_g.demo;
 /**
  * 一个花式打印HelloWorld的类，主要用于熟悉Java的函数与类
  * @author z2379
@@ -7,8 +7,8 @@ package com.Zhang_G.demo;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        test a = new test();
-        a.main("Hello test World !",5);
+        Test a = new Test();
+        a.main("Hello test World !",6);
         loopmain("Hello loop World !",4);
         System.out.print("Hello World !");
     }
@@ -18,7 +18,7 @@ public class HelloWorld {
         }
     }
 }
-class test {
+class Test {
 
     public void main(String s,int t) {
         for( int i=0;i<t;i++){

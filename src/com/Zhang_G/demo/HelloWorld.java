@@ -1,5 +1,9 @@
 package com.Zhang_G.demo;
-
+/**
+ * 一个花式打印HelloWorld的类，主要用于熟悉Java的函数与类
+ * @author z2379
+ * @version 0.0.1
+ */
 public class HelloWorld {
 
     public static void main(String[] args) {
